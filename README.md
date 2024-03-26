@@ -8,6 +8,11 @@ For instance, if you began the year with 500 customers but later ended with 480 
 
 In this project, we aim to find the likelihood of a customer leaving the organization, the key indicators of churn as well as the retention strategies that can be implemented to avert this problem.
 
+## Problem Statement
+
+Telecommunication companies (telcos) like Vodafone Corporation encounter a common issue known as customer churn, where customers discontinue their services. Addressing this challenge requires telcos to anticipate which customers are likely to churn and implement proactive strategies to retain them. Machine learning models offer a solution by predicting potential churners based on factors such as usage patterns, payment history, and demographic data.
+
+
 # Data Understanding
 
 Below are the columns present in the data along with their descriptions:
@@ -34,3 +39,4 @@ Below are the columns present in the data along with their descriptions:
 | MonthlyCharges    | The amount charged to the customer monthly                          |
 | TotalCharges      | The total amount charged to the customer                            |
 | Churn             | Whether the customer churned or not (Yes or No)                     |
+
