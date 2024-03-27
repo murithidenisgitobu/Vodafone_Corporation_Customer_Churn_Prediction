@@ -2,12 +2,7 @@
 # Customer Churn Prediction
 
 ## Problem Statement
-
-Telecommunication companies (telcos) like Vodafone Corporation encounter a common issue known as 
-customer churn, where customers discontinue their services. Addressing this challenge requires telcos
-to anticipate which customers are likely to churn and implement proactive strategies to retain them. 
-Machine learning models offer a solution by predicting potential churners based on factors such as 
-usage patterns, payment history, and demographic data.
+Telecommunication companies, such as Vodafone Corporation, face a significant challenge with customer churn, where customers cease using their services. To address this issue effectively, it's crucial to anticipate which customers are at risk of churning and implement proactive retention strategies. Leveraging machine learning models can provide a solution by predicting potential churners based on various factors, including usage patterns, payment history, and demographic data.
 
 **Understanding Customer Attrition**
 
