@@ -18,7 +18,7 @@ Below are the columns present in the data along with their descriptions:
 
 | Column            | Description                                                         |
 |-------------------|---------------------------------------------------------------------|
-| Gender            | Whether the customer is a male or a female                          |
+| Gender            | Whether the customer is a male or a female                         |
 | SeniorCitizen     | Whether a customer is a senior citizen or not                       |
 | Partner           | Whether the customer has a partner or not (Yes, No)                 |
 | Dependents        | Whether the customer has dependents or not (Yes, No)                |
